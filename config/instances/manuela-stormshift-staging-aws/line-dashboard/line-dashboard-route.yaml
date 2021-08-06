@@ -3,4 +3,4 @@ kind: Route
 metadata:
   name: line-dashboard
 spec:
-  host: line-dashboard-manuela-stormshift-line-dashboard.apps.wh-factory-edge.blueprints.rhecoeng.com
+  host: line-dashboard-manuela-stormshift-line-dashboard.apps.wh-factory-edge3.blueprints.rhecoeng.com

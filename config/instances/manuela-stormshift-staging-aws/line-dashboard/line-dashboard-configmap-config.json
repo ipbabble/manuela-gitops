@@ -1,5 +1,5 @@
 {
-    "websocketHost": "http://messaging-manuela-stormshift-messaging.apps.wh-factory-edge.blueprints.rhecoeng.com",
+    "websocketHost": "http://messaging-manuela-stormshift-messaging.apps.wh-factory-edge3.blueprints.rhecoeng.com",
     "websocketPath": "/api/service-web/socket",
     "SERVER_TIMEOUT": 20000
 }
